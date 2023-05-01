@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Muhbashir2005
-- 👀 I’m interested in Web Development, and Web Design freelance jobs
-- 🌱 I’m have Knowledge of C#, HTML, JavaScript, .NET, ASP.net, and SQL 
-- 💞️ I’m looking to collaborate on peoble with diiferent ideas
-- 📫 How to reach me you can reach me via email onibashirmuhbashir@gmail.com
+-👋 Hi, I'm @Muhbashir2005, a web developer and designer with a passion for building beautiful, responsive websites. I have experience in C#, HTML, JavaScript, .NET, ASP.net, and SQL, and I'm always eager to learn new technologies and tools.
+-👀 I'm interested in freelance projects that allow me to apply my skills and create impactful solutions for clients.
+-💻 On my Github profile, you'll find a collection of my personal projects and contributions to open-source repositories.
+-💞️ I'm open to collaborating with people from diverse backgrounds and with different ideas. If you have a project in mind or just want to connect, feel free to reach out to me at onibashirmuhbashir@gmail.com.
 
 <!---
 Muhbashir2005/Muhbashir2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
