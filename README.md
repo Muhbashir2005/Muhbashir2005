@@ -10,7 +10,7 @@ Currently, I'm working on improving my skills in C#, Web Development. I'm also i
 On my GitHub profile, you'll find a collection of my personal projects and contributions to open-source repositories.
 
 ## Let's Collaborate!
-I'm open to collaborating with people from diverse backgrounds and with different ideas. If you have a project in mind or just want to connect, feel free to reach out to me at muhbashir@outlook.com.
+I'm open to collaborating with people from diverse backgrounds and with different ideas. If you have a project in mind or just want to connect, feel free to reach out to me at onibashirmuhbashir@gmail.com
 
 <!---
 Muhbashir2005/Muhbashir2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
